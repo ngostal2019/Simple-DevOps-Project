@@ -23,11 +23,11 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
    export JAVA_HOME
    PATH=$PATH:$JAVA_HOME
    
- # To set it permanently update your .bash_profile
+ ### To set it permanently update your .bash_profile
    vi ~/.bash_profile
   
 
- # To load your modifications run
+ ### To load your modifications run
 
    [root@~]# source .bash_profile
    
